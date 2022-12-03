@@ -64,12 +64,13 @@
   <a href="#">
     <img alt="ReactJS" src="https://img.shields.io/badge/React%20JS%20-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
   </a> 
-&emsp;
+  &emsp;
   <a href="#">
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white">
   </a> 
-	</p>
- ### 👉 Software & Tools
+</p>
+
+### 👉 Software & Tools
  
 <p align="center">
   &emsp;
