@@ -70,6 +70,11 @@
   <a href="#">
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white">
   </a> 
+  &emsp;
+  <a href="#">
+    <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+  </a> 	
+	
 </p>
 
 ### 👉 Software & Tools
