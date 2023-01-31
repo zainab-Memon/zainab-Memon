@@ -139,9 +139,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/zainab-Memon"><img alt="Zainab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zainab-Memon&custom_title=Zainab's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
+   <a href="https://github.com/zainab-Memon"><img alt="Zainab's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=zainab-Memon&custom_title=Zainab's%20Contribution%20Graph&theme=react-dark" /></a>
+ 
 <br/>
 
